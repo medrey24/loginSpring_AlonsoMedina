@@ -93,9 +93,9 @@ loginform/
 
 A continuación se muestra una captura de pantalla de la aplicación funcionando en el navegador:
 
-![Ejecución de ejemplo](login1.png)
-![Ejecución de ejemplo](login2.png)
-![Ejecución de ejemplo](login3.png)
+![Ejecución de ejemplo](docs/login1.png)
+![Ejecución de ejemplo](docs/login2.png)
+![Ejecución de ejemplo](docs/login3.png)
 
 ---
 
