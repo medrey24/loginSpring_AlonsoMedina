@@ -87,6 +87,18 @@ loginform/
 
 - En caso de error, el mensaje se muestra en rojo debajo del formulario.
 
+---
+
+## Ejemplo hecho en mi navegador:
+
+A continuación se muestra una captura de pantalla de la aplicación funcionando en el navegador:
+
+![Ejecución de ejemplo](login1.png)
+![Ejecución de ejemplo](login2.png)
+![Ejecución de ejemplo](login3.png)
+
+---
+
 Autor 👨‍💻
 Nombre: Alonso Medina Reyes
 
